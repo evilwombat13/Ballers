@@ -9,6 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Ballers">
+        <activity android:name=".LocalGames"></activity>
+        <activity android:name=".HomePage" />
+        <activity android:name=".MyGames" />
+        <activity android:name=".SignUpme" />
+        <activity android:name=".SigninME" />
+        <activity android:name=".data.LoginActivity" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:label="@string/title_activity_login" />
+        <activity android:name=".MainActivity2" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

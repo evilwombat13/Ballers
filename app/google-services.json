@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346717892121",
+    "project_id": "ballers-6b3b1",
+    "storage_bucket": "ballers-6b3b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346717892121:android:9c4b9a79c3fa226f1b8488",
+        "android_client_info": {
+          "package_name": "com.hackathon.ballers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346717892121-05ci9bk2fqs2cbg3fihe01ifkj3cl0v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpxrlW0vzhi6pGfShuDAU9BES0-GDxrtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346717892121-05ci9bk2fqs2cbg3fihe01ifkj3cl0v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
