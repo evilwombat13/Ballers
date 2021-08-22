@@ -21,6 +21,7 @@ import java.util.HashMap;
 public class MyGames extends AppCompatActivity {
     private EditText eLocation, eDate, eTime, eAgeGroup, eGender;
     private Button button;
+    private String name;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

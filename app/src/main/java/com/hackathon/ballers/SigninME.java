@@ -20,6 +20,7 @@ public class SigninME extends AppCompatActivity {
     private EditText eEmail, ePassword;
     private Button button;
     private FirebaseAuth.AuthStateListener Listener;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
